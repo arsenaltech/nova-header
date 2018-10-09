@@ -1,7 +1,7 @@
 # Laravel Nova Header [![Total Downloads](https://poser.pugx.org/arsenaltech/nova-header/downloads)](https://packagist.org/packages/arsenaltech/nova-header)
 
 
-Custom Nova field to add field header when using tabs
+Custom Nova field to add field header when using tabs https://github.com/arsenaltech/nova-tab
 
 
 ## Installation
