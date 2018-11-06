@@ -21,7 +21,7 @@ Add the field to your resource in the `fields` method:
 ```php
 
 new NovaTab('User Information', [
-            NovaHeader::make('Example Title')
+            NovaHeader::make('Example Title'),
             Text::make('Name')
                 ->sortable()
                 ->rules('required', 'max:255'),
